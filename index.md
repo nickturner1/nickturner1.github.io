@@ -32,5 +32,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
  placeholder text
   
-[Go to Page1](/page1.html)
+[Go to Page1](https://nickturner1.github.io/page1.html)
 
