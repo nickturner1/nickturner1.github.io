@@ -30,5 +30,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Sandbox
 
-'''markdown
+<placeholder text>
 
