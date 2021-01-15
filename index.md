@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to the Website
 
-You can use the [editor on GitHub](https://github.com/nickturner1/nturner1.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+As Kanye West said:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> We're living the future so
+> the present is our past.
+
 
 ### Markdown
 
