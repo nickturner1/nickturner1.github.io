@@ -32,5 +32,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 <placeholder text>
   
-<a href="/page1">Go to Page1<a/>
+<a href="/gh-pages/page1">Go to Page1<a/>
 
