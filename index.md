@@ -7,7 +7,7 @@ As Kanye West said:
 
 
 ### Markdown
-
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
