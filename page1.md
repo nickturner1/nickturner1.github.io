@@ -16,4 +16,4 @@ Ut etiam sit amet nisl. Eu sem integer vitae justo eget magna fermentum. Sit ame
 
 ![Image](https://nickturnerau.files.wordpress.com/2020/06/00100dportrait_00100_burst20200509145804319_cover.jpg)
 
-[Go back](nickturner1.github.io/index.html)
+[Go back](/index.html)
